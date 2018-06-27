@@ -1,4 +1,4 @@
-# Lift System
+# User Management System
 
 Windows Forms application of User Management created for **31927 Application Development with .NET** course at UTS.
 
