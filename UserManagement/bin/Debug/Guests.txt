@@ -1,0 +1,12 @@
+user1,password123,John,Smith,12-09-1973,7,4.2
+user2,321password,Diana,Prince,29-01-1986,3,5
+jimmy,123456,Jim,Bean,07-11-1982,2,3.82
+NotBatman,UTS2017,Bruce,Wayne,24-02-2007,3,0
+Charly1,ChatMe,Charles,Gauch,29-01-1986,4,4.62
+RitMe,sx5Gt,Ritaje,Summer,16-07-2000,13,4.09
+Shery,3692813,Sheren,Jackub,01-09-1964,14,4
+Mage1,COrk,Maggy,Wilson,22-11-1982,37,4.09
+RaasH1,NoPasslongC0m,Emily,Rachel,24-04-1980,4,4.4
+RaB1,RunGuy,Robin,Omegan,24-02-2007,5,2.29
+royy1,rRRRR,Romero,Roland,07-11-1982,2,3.82
+Suchi,subdotCom,subway,HJ,21-12-1988,28,0.5
